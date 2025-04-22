@@ -49,4 +49,4 @@ Returns the middle number in a sorted list of numbers.
 ---
 
 📁 Download the Excel file that contains examples of the formulas discussed above:  
-[Click here to download the file](./Lab1qh.xlsx)
+[Click here to download the file](./shwqhLab1.xlsx)
