@@ -45,3 +45,8 @@ Returns the middle number in a sorted list of numbers.
 ---
 
 > I will keep updating this file as I continue learning new functions and use cases in Excel.
+>
+---
+
+📁 Download the Excel file that contains examples of the formulas discussed above:  
+[Click here to download the file](./Lab1qh.xlsx)
