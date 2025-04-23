@@ -47,4 +47,6 @@ Returns the middle number in a sorted list of numbers.
 ### ✅ Attached File: [Lab1.xlsx](./Lab1.xlsx)
 This Excel file includes all the functions I practiced in the previous lab — a complete, hands-on demonstration of key Excel formulas!
 
+---
+
 > Ready to showcase my formula fundamentals for future opportunities
