@@ -17,9 +17,9 @@ In this lesson, I explored two essential Excel functions that help in retrieving
 
 ---
 
-## 📂 Files Attached
-- [`Lab Vlookup.xlsx`](./Lab Vlookup.xlsx)
-- `Personal_Monthly_Expenditure_Lab6.xlsx`
+## 📎 Files Attached
+- [Lab Vlookup.xlsx](./Lab%20Vlookup.xlsx)
+- [Lab Hlookup.xlsx](./Lab%20Hlookup.xlsx)
 
 Each file includes my hands-on practice demonstrating the correct usage of VLOOKUP and HLOOKUP functions.
 
@@ -29,5 +29,5 @@ Each file includes my hands-on practice demonstrating the correct usage of VLOOK
 - Vertical and horizontal lookup skills
 - Writing dynamic search formulas
 - Data formatting for better visualization
-
+---
 > 🚀 This practice strengthened my ability to search and retrieve data efficiently — a core skill for every data analyst!
