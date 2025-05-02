@@ -18,8 +18,8 @@ In this lesson, I explored two essential Excel functions that help in retrieving
 ---
 
 ## 📎 Files Attached
-- [Lab Vlookup.xlsx](./Lab%20Vlookup.xlsx)
-- [Lab Hlookup.xlsx](./Lab%20Hlookup.xlsx)
+- [Lab_Vlookup.xlsx](https://github.com/shwqh/my-data-path/raw/main/Excel-Labs/Lab_Vlookup.xlsx)
+- [Lab_Hlookup.xlsx](https://github.com/shwqh/my-data-path/raw/main/Excel-Labs/Lab_Hlookup.xlsx)
 
 Each file includes my hands-on practice demonstrating the correct usage of VLOOKUP and HLOOKUP functions.
 
