@@ -35,7 +35,8 @@ Applied Excel functions to fix inconsistent text casing:
 
 ---
 
-### ✅ Attached File:[ Lab2.xlsx](./Lab2.xlsx)
+### ✅ Attached File:[ Lab2.xlsx](https://github.com/shwqh/my-data-path/raw/main/Excel-Labs/Lab2.xlsx)
+
 Contains all the cleaning steps I practiced – a complete, hands-on example of what I learned!
 
 ---
