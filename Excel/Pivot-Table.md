@@ -30,8 +30,8 @@ In this lab, I explored how to create and use **Pivot Tables** in Excel to analy
 
 ## 📎 Files Attached
 
-- [Lab4a.xlsx](./Lab4a.xlsx)
-- [Lab4b.xlsx](./Lab4b.xlsx)
+- [Lab4a.xlsx](https://github.com/shwqh/my-data-path/raw/main/Excel-Labs/Lab4a.xlsx)
+- [Lab4b.xlsx](https://github.com/shwqh/my-data-path/raw/main/Excel-Labs/Lab4b.xlsx)
 
 Each file showcases my hands-on practice with Pivot Tables in Excel — from creation to filtering and interactive tools.
 
