@@ -39,7 +39,7 @@ In this lab, I practiced how to manage and analyze data in Excel using key tools
 
 ---
 
-### 📎 Attached File: [ Lab3.xlsx][Download Excel File](https://github.com/shwqh/my-data-path/raw/main/Excel-Labs/Lab3.xlsx)
+### 📎 Attached File: [ Lab3.xlsx](https://github.com/shwqh/my-data-path/raw/main/Excel-Labs/Lab3.xlsx)
 Includes all the tasks and formulas applied in this lab.
 
 ---
