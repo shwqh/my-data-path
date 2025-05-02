@@ -44,7 +44,8 @@ Returns the middle number in a sorted list of numbers.
 
 ---
 
-### ✅ Attached File: [Lab1.xlsx](./my-data-path/Excel20%Labs/Lab1.xlsx)
+### ✅ Attached File: [Lab1.xlsx](https://github.com/shwqh/my-data-path/raw/main/Excel-Labs/Lab1.xlsx)
+
 This Excel file includes all the functions I practiced in the previous lab — a complete, hands-on demonstration of key Excel formulas!
 
 ---
