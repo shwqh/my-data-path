@@ -36,7 +36,7 @@ This sheet provides:
 
 ---
 
-### 📂 Excel File
+### 📎 Attached File: [Habit-Tracker-2025.xlsx](https://github.com/shwqh/my-data-path/raw/main/Excel-Labs/Habit-Tracker-2025.xlsx)
 
 The attached Excel file includes all sheets shown above and is ready for personal customization and use.
 
