@@ -21,8 +21,7 @@ Designing insightful and interactive dashboards — transforming data into clear
 ---
 
 ## 🖼️ Dashboard Preview
- ![Dashboard](../images/DBLab9.jpg) 
-
+ ![Dashboard](../images/DBLab9.png) 
 ---
 
 ## 💡 Notes
